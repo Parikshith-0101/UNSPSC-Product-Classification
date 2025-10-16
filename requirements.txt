@@ -1,0 +1,12 @@
+ipykernel
+pandas
+numpy
+scikit-learn
+langchain
+langchain_core
+langchain-huggingface
+sentence-transformers
+langchain-community
+faiss-cpu
+rapidfuzz
+rank-bm25

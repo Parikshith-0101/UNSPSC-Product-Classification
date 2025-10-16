@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Data and model files
+data/
+preprocessor/
+my_refernce_files/
+
+# FAISS indexes
+src/faiss.index/
+notebooks/faiss.index/
+
+# Python cache
+src/__pycache__/
