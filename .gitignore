@@ -12,3 +12,5 @@ notebooks/faiss.index/
 
 # Python cache
 src/__pycache__/
+
+Report/

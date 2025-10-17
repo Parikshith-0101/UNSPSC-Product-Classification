@@ -34,13 +34,15 @@ class ProductEvaluator:
         
         print(f"Evaluator initialized")
     
-    def evaluate(self, products_df, top_k_list: List[int] = [1, 5, 10]) -> Dict:
+    def evaluate(self, products_df, top_k_list: List[int] = [1, 5, 10], 
+                 confidence_threshold: float = 0.3) -> Dict:
         """
         Evaluate classification performance
         
         Args:
             products_df: Test products with ground truth
             top_k_list: List of K values to evaluate
+            confidence_threshold: Minimum confidence score (0.0-1.0) to include prediction
         
         Returns:
             Dictionary of evaluation metrics
@@ -55,6 +57,7 @@ class ProductEvaluator:
         
         total = 0
         skipped = 0
+        filtered_count = 0  # Track how many predictions were filtered by threshold
         
         max_k = max(top_k_list)
         
@@ -86,13 +89,31 @@ class ProductEvaluator:
                 top_k=max_k
             )
             
+            # Apply confidence thresholding
+            original_pred_count = len(predictions)
+            predictions = [p for p in predictions if p.get('confidence', 1.0) >= confidence_threshold]
+            
+            if len(predictions) < original_pred_count:
+                filtered_count += (original_pred_count - len(predictions))
+            
+            # Handle case where all predictions filtered out
+            if not predictions:
+                # Add zero scores for this sample
+                for k in top_k_list:
+                    precision_at_k[k].append(0.0)
+                    recall_at_k[k].append(0.0)
+                continue
+            
             pred_codes = [p['commodity_code'] for p in predictions]
             pred_names = [p['commodity_name'].strip().lower() for p in predictions]
             
             # Evaluate for each K
             for k in top_k_list:
-                top_k_codes = pred_codes[:k]
-                top_k_names = pred_names[:k]
+                # Adjust k if fewer predictions than k after filtering
+                effective_k = min(k, len(pred_codes))
+                
+                top_k_codes = pred_codes[:effective_k]
+                top_k_names = pred_names[:effective_k]
                 
                 # Commodity match
                 commodity_match = (
@@ -101,7 +122,9 @@ class ProductEvaluator:
                 )
                 
                 metrics[f'top{k}'] += int(commodity_match)
-                precision_at_k[k].append(int(commodity_match) / k)
+                
+                # Precision: relevant items / k (or effective_k if fewer predictions)
+                precision_at_k[k].append(int(commodity_match) / effective_k if effective_k > 0 else 0.0)
                 recall_at_k[k].append(int(commodity_match))
                 
                 # Hierarchy matching
@@ -129,15 +152,17 @@ class ProductEvaluator:
         # Calculate final metrics
         results = {}
         for k in top_k_list:
-            results[f"Top-{k} Accuracy"] = (metrics[f'top{k}'] / total) * 100
-            results[f"Precision@{k}"] = np.mean(precision_at_k[k]) * 100
-            results[f"Recall@{k}"] = np.mean(recall_at_k[k]) * 100
-            results[f"Segment Acc @{k}"] = (segment_hits[k] / total) * 100
-            results[f"Family Acc @{k}"] = (family_hits[k] / total) * 100
-            results[f"Class Acc @{k}"] = (class_hits[k] / total) * 100
+            results[f"Top-{k} Accuracy"] = (metrics[f'top{k}'] / total) * 100 if total > 0 else 0.0
+            results[f"Precision@{k}"] = np.mean(precision_at_k[k]) * 100 if precision_at_k[k] else 0.0
+            results[f"Recall@{k}"] = np.mean(recall_at_k[k]) * 100 if recall_at_k[k] else 0.0
+            results[f"Segment Acc @{k}"] = (segment_hits[k] / total) * 100 if total > 0 else 0.0
+            results[f"Family Acc @{k}"] = (family_hits[k] / total) * 100 if total > 0 else 0.0
+            results[f"Class Acc @{k}"] = (class_hits[k] / total) * 100 if total > 0 else 0.0
         
         results["Total Evaluated"] = total
         results["Skipped"] = skipped
+        results["Confidence Threshold"] = confidence_threshold
+        results["Predictions Filtered"] = filtered_count
         
         return results
     
@@ -149,8 +174,10 @@ class ProductEvaluator:
         
         for metric, value in results.items():
             if isinstance(value, (int, float)):
-                if metric in ["Total Evaluated", "Skipped"]:
+                if metric in ["Total Evaluated", "Skipped", "Predictions Filtered"]:
                     print(f"{metric:25s}: {value}")
+                elif metric == "Confidence Threshold":
+                    print(f"{metric:25s}: {value:.2f}")
                 else:
                     print(f"{metric:25s}: {value:6.2f}%")
         
