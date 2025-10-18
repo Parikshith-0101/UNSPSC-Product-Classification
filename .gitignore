@@ -2,7 +2,7 @@
 venv/
 
 # Data and model files
-data/
+#data/
 preprocessor/
 my_refernce_files/
 
