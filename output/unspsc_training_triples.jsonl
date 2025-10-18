@@ -2,541 +2,534 @@
   {
     "query": "polyvinyl chloride insert",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe slipon flanges copper pipe slipon flange",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe socketweld flanges hdpe plastic pipe socketweld flange",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "copper pipe slipon flange"
+    "negative_commodity": "hdpe plastic pipe socketweld flange"
   },
   {
     "query": "polyvinyl chloride insert",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe spacers pvc plastic pipe spacer",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial assembled cast iron pipe hub",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "pvc plastic pipe spacer"
+    "negative_commodity": "commercial assembled cast iron pipe hub"
   },
   {
     "query": "polyvinyl chloride insert",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe repair clamps cast iron pipe repair clamp",
-    "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "cast iron pipe repair clamp"
-  },
-  {
-    "query": "polyvinyl chloride insert",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings specialized pipe fittings and flanges pipe connection boxes",
-    "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "pipe connection boxes"
-  },
-  {
-    "query": "polyvinyl chloride insert",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges cpvc plastic pipe threaded flange",
-    "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "cpvc plastic pipe threaded flange"
-  },
-  {
-    "query": "snap in bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves relief valves",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "relief valves"
-  },
-  {
-    "query": "snap in bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves inline check valves",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "inline check valves"
-  },
-  {
-    "query": "snap in bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves valve stem",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "valve stem"
-  },
-  {
-    "query": "snap in bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves directional control valve coil assembly",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "directional control valve coil assembly"
-  },
-  {
-    "query": "snap in bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution fluid and gas regulators gas regulators",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "gas regulators"
-  },
-  {
-    "query": "backstop well tank",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage bags laundry nets or bags",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "laundry nets or bags"
-  },
-  {
-    "query": "backstop well tank",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage bags zipper bag",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "zipper bag"
-  },
-  {
-    "query": "backstop well tank",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories processing tanks",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "processing tanks"
-  },
-  {
-    "query": "backstop well tank",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories liquified gas tank or cylinder",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "liquified gas tank or cylinder"
-  },
-  {
-    "query": "backstop well tank",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage bags straw bag",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "straw bag"
-  },
-  {
-    "query": "radfit 3 4 bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses welding hose",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "welding hose"
-  },
-  {
-    "query": "radfit 3 4 bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses steam cleaning hose",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "steam cleaning hose"
-  },
-  {
-    "query": "radfit 3 4 bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "water hoses"
-  },
-  {
-    "query": "radfit 3 4 bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers basket strainer",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "basket strainer"
-  },
-  {
-    "query": "radfit 3 4 bend support",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves fire sprinkler control valve",
-    "positive_commodity": "plumbing hangers",
-    "negative_commodity": "fire sprinkler control valve"
-  },
-  {
-    "query": "smoke t junction",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial concrete pipe",
-    "positive_commodity": "carbon steel pipe tee",
-    "negative_commodity": "commercial concrete pipe"
-  },
-  {
-    "query": "smoke t junction",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples ductile iron pipe nipple",
-    "positive_commodity": "carbon steel pipe tee",
-    "negative_commodity": "ductile iron pipe nipple"
-  },
-  {
-    "query": "smoke t junction",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe toilet flanges brass pipe toilet flange",
-    "positive_commodity": "carbon steel pipe tee",
-    "negative_commodity": "brass pipe toilet flange"
-  },
-  {
-    "query": "smoke t junction",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "positive_commodity": "carbon steel pipe tee",
-    "negative_commodity": "copper pipe coupling"
-  },
-  {
-    "query": "smoke t junction",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
     "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial ferrous alloy pipe",
-    "positive_commodity": "carbon steel pipe tee",
+    "positive_commodity": "pvc plastic pipe adapter",
     "negative_commodity": "commercial ferrous alloy pipe"
   },
   {
-    "query": "prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges cpvc plastic pipe threaded flange",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "cpvc plastic pipe threaded flange"
+    "query": "polyvinyl chloride insert",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges cast iron pipe threaded flange",
+    "positive_commodity": "pvc plastic pipe adapter",
+    "negative_commodity": "cast iron pipe threaded flange"
   },
   {
-    "query": "prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes forged steel pipe wye",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "forged steel pipe wye"
+    "query": "polyvinyl chloride insert",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe swivel or rotating joints copper pipe swivel or rotating joint",
+    "positive_commodity": "pvc plastic pipe adapter",
+    "negative_commodity": "copper pipe swivel or rotating joint"
   },
   {
-    "query": "prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe backup flanges ductile iron pipe backup flange",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "ductile iron pipe backup flange"
+    "query": "snap in bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses ducting hose",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "ducting hose"
   },
   {
-    "query": "prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial zinc pipe",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "commercial zinc pipe"
+    "query": "snap in bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses special hoses",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "special hoses"
   },
   {
-    "query": "prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe repair clamps hdpe plastic pipe repair clamp",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "hdpe plastic pipe repair clamp"
+    "query": "snap in bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves knife gate valves",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "knife gate valves"
   },
   {
-    "query": "4x2 black coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks hdpe plastic pipe rupture disk",
-    "positive_commodity": "malleable iron pipe coupling",
-    "negative_commodity": "hdpe plastic pipe rupture disk"
+    "query": "snap in bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses marine hoses",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "marine hoses"
   },
   {
-    "query": "4x2 black coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial concrete pipe",
-    "positive_commodity": "malleable iron pipe coupling",
-    "negative_commodity": "industrial concrete pipe"
+    "query": "snap in bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves angle globe valves",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "angle globe valves"
   },
   {
-    "query": "4x2 black coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe socketweld flanges pvc plastic pipe socketweld flange",
-    "positive_commodity": "malleable iron pipe coupling",
-    "negative_commodity": "pvc plastic pipe socketweld flange"
+    "query": "backstop well tank",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage freight containers flatrack freight container",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "flatrack freight container"
   },
   {
-    "query": "4x2 black coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows copper pipe elbow",
-    "positive_commodity": "malleable iron pipe coupling",
-    "negative_commodity": "copper pipe elbow"
+    "query": "backstop well tank",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage cans and pails jerrycans",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "jerrycans"
   },
   {
-    "query": "4x2 black coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings ductile iron pipe bushing",
-    "positive_commodity": "malleable iron pipe coupling",
-    "negative_commodity": "ductile iron pipe bushing"
+    "query": "backstop well tank",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage slip sheets plastic slip sheet",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "plastic slip sheet"
   },
   {
-    "query": "cam mastainless st junctionl 3t 3 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe weldolets forged steel pipe weldolet",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "forged steel pipe weldolet"
+    "query": "backstop well tank",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage bins and baskets metallic baskets",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "metallic baskets"
   },
   {
-    "query": "cam mastainless st junctionl 3t 3 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe expansion joints abs plastic pipe expansion joint",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "abs plastic pipe expansion joint"
+    "query": "backstop well tank",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories carboys",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "carboys"
   },
   {
-    "query": "cam mastainless st junctionl 3t 3 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs rubber pipe plug",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "rubber pipe plug"
+    "query": "radfit 3 4 bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing spiders",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "plumbing spiders"
   },
   {
-    "query": "cam mastainless st junctionl 3t 3 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe long weldneck flanges forged steel pipe long weldneck flange",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "forged steel pipe long weldneck flange"
+    "query": "radfit 3 4 bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution fluid and gas regulators gas mixer",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "gas mixer"
   },
   {
-    "query": "cam mastainless st junctionl 3t 3 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "query": "radfit 3 4 bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings hose assembly",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "hose assembly"
+  },
+  {
+    "query": "radfit 3 4 bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain separator",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "drain separator"
+  },
+  {
+    "query": "radfit 3 4 bend support",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves toilet fill valve",
+    "positive_commodity": "plumbing hangers",
+    "negative_commodity": "toilet fill valve"
+  },
+  {
+    "query": "smoke t junction",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
     "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial aluminum pipe",
-    "positive_commodity": "brass pipe coupling",
+    "positive_commodity": "carbon steel pipe tee",
     "negative_commodity": "commercial aluminum pipe"
   },
   {
-    "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction h x h x h",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial concrete pipe",
-    "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "commercial concrete pipe"
+    "query": "smoke t junction",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings specialized pipe fittings and flanges pipe puddle flanges",
+    "positive_commodity": "carbon steel pipe tee",
+    "negative_commodity": "pipe puddle flanges"
+  },
+  {
+    "query": "smoke t junction",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings specialized pipe fittings and flanges pipe connection boxes",
+    "positive_commodity": "carbon steel pipe tee",
+    "negative_commodity": "pipe connection boxes"
+  },
+  {
+    "query": "smoke t junction",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples stainless steel pipe nipple",
+    "positive_commodity": "carbon steel pipe tee",
+    "negative_commodity": "stainless steel pipe nipple"
+  },
+  {
+    "query": "smoke t junction",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe expansion joints forged steel pipe expansion joint",
+    "positive_commodity": "carbon steel pipe tee",
+    "negative_commodity": "forged steel pipe expansion joint"
+  },
+  {
+    "query": "prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe backup flanges forged steel pipe backup flange",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "forged steel pipe backup flange"
+  },
+  {
+    "query": "prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors malleable iron pipe connector",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "malleable iron pipe connector"
+  },
+  {
+    "query": "prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial aluminum pipe",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "industrial aluminum pipe"
+  },
+  {
+    "query": "prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial non ferrous pipe",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "commercial non ferrous pipe"
+  },
+  {
+    "query": "prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe blind flanges galvanized iron pipe blind flange",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "galvanized iron pipe blind flange"
+  },
+  {
+    "query": "4x2 black coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses malleable iron pipe cross",
+    "positive_commodity": "malleable iron pipe coupling",
+    "negative_commodity": "malleable iron pipe cross"
+  },
+  {
+    "query": "4x2 black coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe backup flanges aluminum pipe reserve flange",
+    "positive_commodity": "malleable iron pipe coupling",
+    "negative_commodity": "aluminum pipe reserve flange"
+  },
+  {
+    "query": "4x2 black coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps galvanized iron pipe cap",
+    "positive_commodity": "malleable iron pipe coupling",
+    "negative_commodity": "galvanized iron pipe cap"
+  },
+  {
+    "query": "4x2 black coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs rubber pipe plug",
+    "positive_commodity": "malleable iron pipe coupling",
+    "negative_commodity": "rubber pipe plug"
+  },
+  {
+    "query": "4x2 black coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings malleable iron pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes malleable iron pipe wye",
+    "positive_commodity": "malleable iron pipe coupling",
+    "negative_commodity": "malleable iron pipe wye"
+  },
+  {
+    "query": "cam mastainless st junctionl 3t 3 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing flanges malleable iron pipe reducing flange",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "malleable iron pipe reducing flange"
+  },
+  {
+    "query": "cam mastainless st junctionl 3t 3 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe socketweld flanges cpvc plastic pipe socketweld flange",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "cpvc plastic pipe socketweld flange"
+  },
+  {
+    "query": "cam mastainless st junctionl 3t 3 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges forged steel pipe threaded flange",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "forged steel pipe threaded flange"
+  },
+  {
+    "query": "cam mastainless st junctionl 3t 3 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples cpvc plastic pipe nipple",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "cpvc plastic pipe nipple"
+  },
+  {
+    "query": "cam mastainless st junctionl 3t 3 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses hdpe plastic pipe cross",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "hdpe plastic pipe cross"
   },
   {
     "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction h x h x h",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe spacers cpvc plastic pipe spacer",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors stainless steel pipe connector",
     "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "cpvc plastic pipe spacer"
+    "negative_commodity": "stainless steel pipe connector"
   },
   {
     "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction h x h x h",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors polypropylene pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings carbon steel pipe coupling",
     "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "polypropylene pipe connector"
+    "negative_commodity": "carbon steel pipe coupling"
   },
   {
     "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction h x h x h",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs pvc plastic pipe plug",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes hdpe plastic pipe wye",
     "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "pvc plastic pipe plug"
+    "negative_commodity": "hdpe plastic pipe wye"
   },
   {
     "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction h x h x h",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges abs plastic pipe threaded flange",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors polyethylene pipe connector",
     "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "abs plastic pipe threaded flange"
+    "negative_commodity": "polyethylene pipe connector"
   },
   {
-    "query": "polyvinyl chloride40 1 1 2 x 1 bushing mxf",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings pvc plastic pipe bushing",
+    "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction h x h x h",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
     "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe lapjoint flanges copper pipe lapjoint flange",
-    "positive_commodity": "pvc plastic pipe bushing",
+    "positive_commodity": "pvc plastic pipe tee",
     "negative_commodity": "copper pipe lapjoint flange"
   },
   {
     "query": "polyvinyl chloride40 1 1 2 x 1 bushing mxf",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings pvc plastic pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees abs plastic pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors glass reinforced thermosetting plastic pipe connector",
     "positive_commodity": "pvc plastic pipe bushing",
-    "negative_commodity": "abs plastic pipe tee"
+    "negative_commodity": "glass reinforced thermosetting plastic pipe connector"
   },
   {
     "query": "polyvinyl chloride40 1 1 2 x 1 bushing mxf",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings pvc plastic pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges forged steel pipe threaded flange",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe baffles brass pipe baffle",
     "positive_commodity": "pvc plastic pipe bushing",
-    "negative_commodity": "forged steel pipe threaded flange"
+    "negative_commodity": "brass pipe baffle"
   },
   {
     "query": "polyvinyl chloride40 1 1 2 x 1 bushing mxf",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings pvc plastic pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings aluminum pipe reducing coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe unions ductile iron pipe union",
     "positive_commodity": "pvc plastic pipe bushing",
-    "negative_commodity": "aluminum pipe reducing coupling"
+    "negative_commodity": "ductile iron pipe union"
   },
   {
     "query": "polyvinyl chloride40 1 1 2 x 1 bushing mxf",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings pvc plastic pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe weldolets carbon steel pipe weldolet",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized steel pipe elbow",
     "positive_commodity": "pvc plastic pipe bushing",
-    "negative_commodity": "carbon steel pipe weldolet"
+    "negative_commodity": "galvanized steel pipe elbow"
+  },
+  {
+    "query": "polyvinyl chloride40 1 1 2 x 1 bushing mxf",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings pvc plastic pipe bushing",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees copper pipe tee",
+    "positive_commodity": "pvc plastic pipe bushing",
+    "negative_commodity": "copper pipe tee"
   },
   {
     "query": "curb plunger 4 disc",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain covers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts zinc ducts or ductwork",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts rigid ducts",
     "positive_commodity": "drain covers",
-    "negative_commodity": "zinc ducts or ductwork"
+    "negative_commodity": "rigid ducts"
   },
   {
     "query": "curb plunger 4 disc",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain covers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves butterfly lug pattern valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings nozzles",
     "positive_commodity": "drain covers",
-    "negative_commodity": "butterfly lug pattern valves"
+    "negative_commodity": "nozzles"
   },
   {
     "query": "curb plunger 4 disc",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain covers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses special hoses",
-    "positive_commodity": "drain covers",
-    "negative_commodity": "special hoses"
-  },
-  {
-    "query": "curb plunger 4 disc",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain covers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts lead ducts or ductwork",
-    "positive_commodity": "drain covers",
-    "negative_commodity": "lead ducts or ductwork"
-  },
-  {
-    "query": "curb plunger 4 disc",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain covers",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing vents",
-    "positive_commodity": "drain covers",
-    "negative_commodity": "plumbing vents"
-  },
-  {
-    "query": "pex x pex copper coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe angle face rings stainless steel pipe angle face ring",
-    "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "stainless steel pipe angle face ring"
-  },
-  {
-    "query": "pex x pex copper coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps brass pipe cap",
-    "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "brass pipe cap"
-  },
-  {
-    "query": "pex x pex copper coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings cpvc plastic pipe bushing",
-    "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "cpvc plastic pipe bushing"
-  },
-  {
-    "query": "pex x pex copper coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps cast iron pipe cap",
-    "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "cast iron pipe cap"
-  },
-  {
-    "query": "pex x pex copper coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings hdpe plastic pipe reducing coupling",
-    "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "hdpe plastic pipe reducing coupling"
-  },
-  {
-    "query": "1 inch viega pexprestainless st junctionl coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe swivel or rotating joints cpvc plastic pipe swivel or rotating joint",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "cpvc plastic pipe swivel or rotating joint"
-  },
-  {
-    "query": "1 inch viega pexprestainless st junctionl coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe swivel or rotating joints pvc plastic pipe swivel or rotating joint",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "pvc plastic pipe swivel or rotating joint"
-  },
-  {
-    "query": "1 inch viega pexprestainless st junctionl coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes pvc plastic pipe wye",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "pvc plastic pipe wye"
-  },
-  {
-    "query": "1 inch viega pexprestainless st junctionl coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters malleable iron pipe adapter",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "malleable iron pipe adapter"
-  },
-  {
-    "query": "1 inch viega pexprestainless st junctionl coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks hdpe plastic pipe rupture disk",
-    "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "hdpe plastic pipe rupture disk"
-  },
-  {
-    "query": "hex washer zip in screw 100 pk",
-    "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware washers clipped washer",
-    "positive_commodity": "set screws",
-    "negative_commodity": "clipped washer"
-  },
-  {
-    "query": "hex washer zip in screw 100 pk",
-    "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware miscellaneous fasteners connecting or coupling pins",
-    "positive_commodity": "set screws",
-    "negative_commodity": "connecting or coupling pins"
-  },
-  {
-    "query": "hex washer zip in screw 100 pk",
-    "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware couplings jaw coupling",
-    "positive_commodity": "set screws",
-    "negative_commodity": "jaw coupling"
-  },
-  {
-    "query": "hex washer zip in screw 100 pk",
-    "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware retaining hardware plastic retaining clip",
-    "positive_commodity": "set screws",
-    "negative_commodity": "plastic retaining clip"
-  },
-  {
-    "query": "hex washer zip in screw 100 pk",
-    "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware nuts stop nuts",
-    "positive_commodity": "set screws",
-    "negative_commodity": "stop nuts"
-  },
-  {
-    "query": "vinyl tubing",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves directional control valve coil assembly",
-    "positive_commodity": "water hoses",
-    "negative_commodity": "directional control valve coil assembly"
-  },
-  {
-    "query": "vinyl tubing",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
     "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves vacuum valve",
-    "positive_commodity": "water hoses",
+    "positive_commodity": "drain covers",
     "negative_commodity": "vacuum valve"
   },
   {
-    "query": "vinyl tubing",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings grease fitting",
-    "positive_commodity": "water hoses",
-    "negative_commodity": "grease fitting"
+    "query": "curb plunger 4 disc",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain covers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers liquid traps",
+    "positive_commodity": "drain covers",
+    "negative_commodity": "liquid traps"
+  },
+  {
+    "query": "curb plunger 4 disc",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain covers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses food and beverage hose",
+    "positive_commodity": "drain covers",
+    "negative_commodity": "food and beverage hose"
+  },
+  {
+    "query": "pex x pex copper coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses forged steel pipe cross",
+    "positive_commodity": "copper pipe coupling",
+    "negative_commodity": "forged steel pipe cross"
+  },
+  {
+    "query": "pex x pex copper coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks ductile iron pipe rupture disk",
+    "positive_commodity": "copper pipe coupling",
+    "negative_commodity": "ductile iron pipe rupture disk"
+  },
+  {
+    "query": "pex x pex copper coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks abs plastic pipe rupture disk",
+    "positive_commodity": "copper pipe coupling",
+    "negative_commodity": "abs plastic pipe rupture disk"
+  },
+  {
+    "query": "pex x pex copper coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe backup flanges aluminum pipe reserve flange",
+    "positive_commodity": "copper pipe coupling",
+    "negative_commodity": "aluminum pipe reserve flange"
+  },
+  {
+    "query": "pex x pex copper coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe spacers brass pipe spacer",
+    "positive_commodity": "copper pipe coupling",
+    "negative_commodity": "brass pipe spacer"
+  },
+  {
+    "query": "1 inch viega pexprestainless st junctionl coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe repair clamps ductile iron pipe repair clamp",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "ductile iron pipe repair clamp"
+  },
+  {
+    "query": "1 inch viega pexprestainless st junctionl coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe spacers brass pipe spacer",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "brass pipe spacer"
+  },
+  {
+    "query": "1 inch viega pexprestainless st junctionl coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors flexible pipe connector",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "flexible pipe connector"
+  },
+  {
+    "query": "1 inch viega pexprestainless st junctionl coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial seamless stainless steel pipe",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "commercial seamless stainless steel pipe"
+  },
+  {
+    "query": "1 inch viega pexprestainless st junctionl coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial high yield steel pipe",
+    "positive_commodity": "brass pipe coupling",
+    "negative_commodity": "industrial high yield steel pipe"
+  },
+  {
+    "query": "hex washer zip in screw 100 pk",
+    "positive": "manufacturing components and supplies hardware screws set screws",
+    "negative": "manufacturing components and supplies hardware screws eye screw",
+    "positive_commodity": "set screws",
+    "negative_commodity": "eye screw"
+  },
+  {
+    "query": "hex washer zip in screw 100 pk",
+    "positive": "manufacturing components and supplies hardware screws set screws",
+    "negative": "manufacturing components and supplies hardware nuts swivel nuts",
+    "positive_commodity": "set screws",
+    "negative_commodity": "swivel nuts"
+  },
+  {
+    "query": "hex washer zip in screw 100 pk",
+    "positive": "manufacturing components and supplies hardware screws set screws",
+    "negative": "manufacturing components and supplies hardware miscellaneous hardware spinneret",
+    "positive_commodity": "set screws",
+    "negative_commodity": "spinneret"
+  },
+  {
+    "query": "hex washer zip in screw 100 pk",
+    "positive": "manufacturing components and supplies hardware screws set screws",
+    "negative": "manufacturing components and supplies hardware miscellaneous fasteners hinges",
+    "positive_commodity": "set screws",
+    "negative_commodity": "hinges"
+  },
+  {
+    "query": "hex washer zip in screw 100 pk",
+    "positive": "manufacturing components and supplies hardware screws set screws",
+    "negative": "manufacturing components and supplies hardware miscellaneous hardware levers",
+    "positive_commodity": "set screws",
+    "negative_commodity": "levers"
   },
   {
     "query": "vinyl tubing",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses material handling hoses",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves nonlubricated plug valves",
     "positive_commodity": "water hoses",
-    "negative_commodity": "material handling hoses"
+    "negative_commodity": "nonlubricated plug valves"
   },
   {
     "query": "vinyl tubing",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings atomizers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers basket strainer",
     "positive_commodity": "water hoses",
-    "negative_commodity": "atomizers"
+    "negative_commodity": "basket strainer"
+  },
+  {
+    "query": "vinyl tubing",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses fluoropolymer lined hoses",
+    "positive_commodity": "water hoses",
+    "negative_commodity": "fluoropolymer lined hoses"
+  },
+  {
+    "query": "vinyl tubing",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves hydraulic valves",
+    "positive_commodity": "water hoses",
+    "negative_commodity": "hydraulic valves"
+  },
+  {
+    "query": "vinyl tubing",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers liquid strainers",
+    "positive_commodity": "water hoses",
+    "negative_commodity": "liquid strainers"
   },
   {
     "query": "drill point screws",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware retaining hardware spring pins",
+    "negative": "manufacturing components and supplies hardware nails decorative nail",
     "positive_commodity": "set screws",
-    "negative_commodity": "spring pins"
-  },
-  {
-    "query": "drill point screws",
-    "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware retaining hardware pin assortment set",
-    "positive_commodity": "set screws",
-    "negative_commodity": "pin assortment set"
+    "negative_commodity": "decorative nail"
   },
   {
     "query": "drill point screws",
@@ -548,37 +541,30 @@
   {
     "query": "drill point screws",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware bolts door bolts",
+    "negative": "manufacturing components and supplies hardware washers belleville washer",
     "positive_commodity": "set screws",
-    "negative_commodity": "door bolts"
+    "negative_commodity": "belleville washer"
   },
   {
     "query": "drill point screws",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware nuts hexagonal nuts",
+    "negative": "manufacturing components and supplies hardware retaining hardware circlip",
     "positive_commodity": "set screws",
-    "negative_commodity": "hexagonal nuts"
+    "negative_commodity": "circlip"
+  },
+  {
+    "query": "drill point screws",
+    "positive": "manufacturing components and supplies hardware screws set screws",
+    "negative": "manufacturing components and supplies hardware retaining hardware flinger",
+    "positive_commodity": "set screws",
+    "negative_commodity": "flinger"
   },
   {
     "query": "brastainless st junctionl gas stop valve",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers s trap",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves lubricated plug valves",
     "positive_commodity": "ball valves",
-    "negative_commodity": "s trap"
-  },
-  {
-    "query": "brastainless st junctionl gas stop valve",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts ferrous alloy ducts or ductwork",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "ferrous alloy ducts or ductwork"
-  },
-  {
-    "query": "brastainless st junctionl gas stop valve",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings hydrants",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "hydrants"
+    "negative_commodity": "lubricated plug valves"
   },
   {
     "query": "brastainless st junctionl gas stop valve",
@@ -590,149 +576,184 @@
   {
     "query": "brastainless st junctionl gas stop valve",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves valve stem",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts flexible ducts",
     "positive_commodity": "ball valves",
-    "negative_commodity": "valve stem"
+    "negative_commodity": "flexible ducts"
+  },
+  {
+    "query": "brastainless st junctionl gas stop valve",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses vacuum hose",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "vacuum hose"
+  },
+  {
+    "query": "brastainless st junctionl gas stop valve",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings escutcheon",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "escutcheon"
   },
   {
     "query": "trac 1 1 4 autoflare",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees malleable iron pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks pvc plastic pipe rupture disk",
     "positive_commodity": "brass pipe connector",
-    "negative_commodity": "malleable iron pipe tee"
+    "negative_commodity": "pvc plastic pipe rupture disk"
   },
   {
     "query": "trac 1 1 4 autoflare",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges cpvc plastic pipe threaded flange",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "cpvc plastic pipe threaded flange"
+  },
+  {
+    "query": "trac 1 1 4 autoflare",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe baffles cpvc plastic pipe baffle",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "cpvc plastic pipe baffle"
+  },
+  {
+    "query": "trac 1 1 4 autoflare",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings stainless steel pipe coupling",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "stainless steel pipe coupling"
+  },
+  {
+    "query": "trac 1 1 4 autoflare",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings rubber pipe bushing",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "rubber pipe bushing"
+  },
+  {
+    "query": "insert 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe backup flanges forged steel pipe backup flange",
+    "positive_commodity": "pvc plastic pipe elbow",
+    "negative_commodity": "forged steel pipe backup flange"
+  },
+  {
+    "query": "insert 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps copper pipe cap",
+    "positive_commodity": "pvc plastic pipe elbow",
+    "negative_commodity": "copper pipe cap"
+  },
+  {
+    "query": "insert 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe lapjoint flanges forged steel pipe lapjoint flange",
+    "positive_commodity": "pvc plastic pipe elbow",
+    "negative_commodity": "forged steel pipe lapjoint flange"
+  },
+  {
+    "query": "insert 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bends cast iron pipe bend",
+    "positive_commodity": "pvc plastic pipe elbow",
+    "negative_commodity": "cast iron pipe bend"
+  },
+  {
+    "query": "insert 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial lead pipe",
+    "positive_commodity": "pvc plastic pipe elbow",
+    "negative_commodity": "industrial lead pipe"
+  },
+  {
+    "query": "gas ball valve full port",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings fusible plugs",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "fusible plugs"
+  },
+  {
+    "query": "gas ball valve full port",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings pitless adapter",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "pitless adapter"
+  },
+  {
+    "query": "gas ball valve full port",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves orifice valves",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "orifice valves"
+  },
+  {
+    "query": "gas ball valve full port",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball check valves",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "ball check valves"
+  },
+  {
+    "query": "gas ball valve full port",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses vacuum hose",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "vacuum hose"
+  },
+  {
+    "query": "copper dwv 1 1 4 trap adapter c x sj",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors glass reinforced thermosetting plastic pipe connector",
+    "positive_commodity": "copper pipe coupling",
+    "negative_commodity": "glass reinforced thermosetting plastic pipe connector"
+  },
+  {
+    "query": "copper dwv 1 1 4 trap adapter c x sj",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
     "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings pvc plastic pipe coupling",
-    "positive_commodity": "brass pipe connector",
+    "positive_commodity": "copper pipe coupling",
     "negative_commodity": "pvc plastic pipe coupling"
   },
   {
-    "query": "trac 1 1 4 autoflare",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs ductile iron pipe plug",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "ductile iron pipe plug"
-  },
-  {
-    "query": "trac 1 1 4 autoflare",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe half couplings cpvc plastic pipe half coupling",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "cpvc plastic pipe half coupling"
-  },
-  {
-    "query": "trac 1 1 4 autoflare",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe spacers stainless steel pipe spacer",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "stainless steel pipe spacer"
-  },
-  {
-    "query": "insert 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing flanges copper pipe reducing flange",
-    "positive_commodity": "pvc plastic pipe elbow",
-    "negative_commodity": "copper pipe reducing flange"
-  },
-  {
-    "query": "insert 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial assembled cast iron pipe hub",
-    "positive_commodity": "pvc plastic pipe elbow",
-    "negative_commodity": "commercial assembled cast iron pipe hub"
-  },
-  {
-    "query": "insert 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe socketweld flanges carbon steel pipe socketweld flange",
-    "positive_commodity": "pvc plastic pipe elbow",
-    "negative_commodity": "carbon steel pipe socketweld flange"
-  },
-  {
-    "query": "insert 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings specialized pipe fittings and flanges pipe connection boxes",
-    "positive_commodity": "pvc plastic pipe elbow",
-    "negative_commodity": "pipe connection boxes"
-  },
-  {
-    "query": "insert 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks ductile iron pipe rupture disk",
-    "positive_commodity": "pvc plastic pipe elbow",
-    "negative_commodity": "ductile iron pipe rupture disk"
-  },
-  {
-    "query": "gas ball valve full port",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution fluid and gas regulators fluid regulators",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "fluid regulators"
-  },
-  {
-    "query": "gas ball valve full port",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves valve stem",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "valve stem"
-  },
-  {
-    "query": "gas ball valve full port",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers y strainer",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "y strainer"
-  },
-  {
-    "query": "gas ball valve full port",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings grease fitting",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "grease fitting"
-  },
-  {
-    "query": "gas ball valve full port",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves piston check valves",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "piston check valves"
+    "query": "copper dwv 1 1 4 trap adapter c x sj",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges carbon steel pipe threaded flange",
+    "positive_commodity": "copper pipe coupling",
+    "negative_commodity": "carbon steel pipe threaded flange"
   },
   {
     "query": "copper dwv 1 1 4 trap adapter c x sj",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe half couplings stainless steel pipe half coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe swivel or rotating joints pvc plastic pipe swivel or rotating joint",
     "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "stainless steel pipe half coupling"
+    "negative_commodity": "pvc plastic pipe swivel or rotating joint"
   },
   {
     "query": "copper dwv 1 1 4 trap adapter c x sj",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs malleable iron pipe plug",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks forged steel pipe rupture disk",
     "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "malleable iron pipe plug"
+    "negative_commodity": "forged steel pipe rupture disk"
   },
   {
-    "query": "copper dwv 1 1 4 trap adapter c x sj",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks ductile iron pipe rupture disk",
-    "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "ductile iron pipe rupture disk"
+    "query": "5 oval smoke pipe",
+    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories chimney",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories film heater",
+    "positive_commodity": "chimney",
+    "negative_commodity": "film heater"
   },
   {
-    "query": "copper dwv 1 1 4 trap adapter c x sj",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings specialized pipe fittings and flanges pipe branch outlets",
-    "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "pipe branch outlets"
+    "query": "5 oval smoke pipe",
+    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories chimney",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories forced air heating system",
+    "positive_commodity": "chimney",
+    "negative_commodity": "forced air heating system"
   },
   {
-    "query": "copper dwv 1 1 4 trap adapter c x sj",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings copper pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors aluminium and aluminium alloy pipe connector",
-    "positive_commodity": "copper pipe coupling",
-    "negative_commodity": "aluminium and aluminium alloy pipe connector"
+    "query": "5 oval smoke pipe",
+    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories chimney",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories gas fueled fireplace vent free",
+    "positive_commodity": "chimney",
+    "negative_commodity": "gas fueled fireplace vent free"
   },
   {
     "query": "5 oval smoke pipe",
@@ -744,471 +765,450 @@
   {
     "query": "5 oval smoke pipe",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories chimney",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories tubular heaters",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories baffle plate",
     "positive_commodity": "chimney",
-    "negative_commodity": "tubular heaters"
-  },
-  {
-    "query": "5 oval smoke pipe",
-    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories chimney",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation air collectors",
-    "positive_commodity": "chimney",
-    "negative_commodity": "air collectors"
-  },
-  {
-    "query": "5 oval smoke pipe",
-    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories chimney",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling coil",
-    "positive_commodity": "chimney",
-    "negative_commodity": "cooling coil"
-  },
-  {
-    "query": "5 oval smoke pipe",
-    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories chimney",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation air diffusers",
-    "positive_commodity": "chimney",
-    "negative_commodity": "air diffusers"
+    "negative_commodity": "baffle plate"
   },
   {
     "query": "1 1 2 polyvinyl chloride dwv trap adapter",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial high yield steel pipe",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe expansion joints copper pipe expansion joint",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "commercial high yield steel pipe"
+    "negative_commodity": "copper pipe expansion joint"
   },
   {
     "query": "1 1 2 polyvinyl chloride dwv trap adapter",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses malleable iron pipe cross",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe half couplings hdpe plastic pipe half coupling",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "malleable iron pipe cross"
+    "negative_commodity": "hdpe plastic pipe half coupling"
   },
   {
     "query": "1 1 2 polyvinyl chloride dwv trap adapter",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes stainless steel pipe wye",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples black iron pipe nipple",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "stainless steel pipe wye"
+    "negative_commodity": "black iron pipe nipple"
   },
   {
     "query": "1 1 2 polyvinyl chloride dwv trap adapter",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings pvc plastic pipe reducing coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial ferrous alloy pipe",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "pvc plastic pipe reducing coupling"
+    "negative_commodity": "industrial ferrous alloy pipe"
   },
   {
     "query": "1 1 2 polyvinyl chloride dwv trap adapter",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses hdpe plastic pipe cross",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows cpvc plastic pipe elbow",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "hdpe plastic pipe cross"
+    "negative_commodity": "cpvc plastic pipe elbow"
   },
   {
     "query": "flare x 3 8 flare 36 long flexible oil line",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses chemical hose",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers conical strainer",
     "positive_commodity": "water hoses",
-    "negative_commodity": "chemical hose"
+    "negative_commodity": "conical strainer"
   },
   {
     "query": "flare x 3 8 flare 36 long flexible oil line",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers y strainer",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts plastics duct or ductwork",
     "positive_commodity": "water hoses",
-    "negative_commodity": "y strainer"
+    "negative_commodity": "plastics duct or ductwork"
   },
   {
     "query": "flare x 3 8 flare 36 long flexible oil line",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses special hoses",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings vacuum breaker",
     "positive_commodity": "water hoses",
-    "negative_commodity": "special hoses"
+    "negative_commodity": "vacuum breaker"
   },
   {
     "query": "flare x 3 8 flare 36 long flexible oil line",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings fuel cocks",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain bowls",
     "positive_commodity": "water hoses",
-    "negative_commodity": "fuel cocks"
+    "negative_commodity": "drain bowls"
   },
   {
     "query": "flare x 3 8 flare 36 long flexible oil line",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution fluid and gas regulators gas mixer",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution fluid and gas regulators fluid regulators",
     "positive_commodity": "water hoses",
-    "negative_commodity": "gas mixer"
+    "negative_commodity": "fluid regulators"
   },
   {
     "query": "foot vinyl tubing clear cut",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves sluice valve",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts steel ducts or ductwork",
     "positive_commodity": "water hoses",
-    "negative_commodity": "sluice valve"
+    "negative_commodity": "steel ducts or ductwork"
   },
   {
     "query": "foot vinyl tubing clear cut",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves foot valve",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses air hoses",
     "positive_commodity": "water hoses",
-    "negative_commodity": "foot valve"
+    "negative_commodity": "air hoses"
   },
   {
     "query": "foot vinyl tubing clear cut",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing adapters",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves orifice valves",
     "positive_commodity": "water hoses",
-    "negative_commodity": "plumbing adapters"
+    "negative_commodity": "orifice valves"
   },
   {
     "query": "foot vinyl tubing clear cut",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts non ferrous alloy ducts or ductwork",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts lead ducts or ductwork",
     "positive_commodity": "water hoses",
-    "negative_commodity": "non ferrous alloy ducts or ductwork"
+    "negative_commodity": "lead ducts or ductwork"
   },
   {
     "query": "foot vinyl tubing clear cut",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses steam cleaning hose",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers breather",
     "positive_commodity": "water hoses",
-    "negative_commodity": "steam cleaning hose"
+    "negative_commodity": "breather"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings rubber pipe bushing",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees malleable iron pipe tee",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "rubber pipe bushing"
+    "negative_commodity": "malleable iron pipe tee"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe baffles hdpe plastic pipe baffle",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing flanges malleable iron pipe reducing flange",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "hdpe plastic pipe baffle"
+    "negative_commodity": "malleable iron pipe reducing flange"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe swivel or rotating joints cpvc plastic pipe swivel or rotating joint",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors glass reinforced thermosetting plastic pipe connector",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "cpvc plastic pipe swivel or rotating joint"
+    "negative_commodity": "glass reinforced thermosetting plastic pipe connector"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial assembled cast iron pipe hub",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs galvanized iron pipe plug",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "commercial assembled cast iron pipe hub"
+    "negative_commodity": "galvanized iron pipe plug"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps carbon steel pipe cap",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings cast iron pipe bushing",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "carbon steel pipe cap"
+    "negative_commodity": "cast iron pipe bushing"
   },
   {
     "query": "50 quick connect line set",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation ventilation dampers",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories electric fueled fireplace",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "ventilation dampers"
+    "negative_commodity": "electric fueled fireplace"
   },
   {
     "query": "50 quick connect line set",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories domestic water heaters",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation ventilation tubing",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "domestic water heaters"
+    "negative_commodity": "ventilation tubing"
   },
   {
     "query": "50 quick connect line set",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories screw chiller",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories fireplace facing",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "screw chiller"
+    "negative_commodity": "fireplace facing"
   },
   {
     "query": "50 quick connect line set",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories convection heaters",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories gas fueled fireplace b vent",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "convection heaters"
+    "negative_commodity": "gas fueled fireplace b vent"
   },
   {
     "query": "50 quick connect line set",
+    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories evaporative coolers",
+    "positive_commodity": "air conditioners",
+    "negative_commodity": "evaporative coolers"
+  },
+  {
+    "query": "prestainless st junctionlure tank 20 gallon",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories calibrating tanks",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "calibrating tanks"
+  },
+  {
+    "query": "prestainless st junctionlure tank 20 gallon",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage bags flexible intermediate bulk containers",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "flexible intermediate bulk containers"
+  },
+  {
+    "query": "prestainless st junctionlure tank 20 gallon",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage storage chests and cabinets and trunks flag storage box or case",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "flag storage box or case"
+  },
+  {
+    "query": "prestainless st junctionlure tank 20 gallon",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage storage chests and cabinets and trunks shelf partition",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "shelf partition"
+  },
+  {
+    "query": "prestainless st junctionlure tank 20 gallon",
+    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
+    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage cans and pails jerrycans",
+    "positive_commodity": "water storage tanks",
+    "negative_commodity": "jerrycans"
+  },
+  {
+    "query": "valve 1 2 gas ball",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves turbine valves",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "turbine valves"
+  },
+  {
+    "query": "valve 1 2 gas ball",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts latex duct or ductwork",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "latex duct or ductwork"
+  },
+  {
+    "query": "valve 1 2 gas ball",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain plugs",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "drain plugs"
+  },
+  {
+    "query": "valve 1 2 gas ball",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves valve stem",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "valve stem"
+  },
+  {
+    "query": "valve 1 2 gas ball",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves rotary airlock valve",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "rotary airlock valve"
+  },
+  {
+    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial cast iron pipe",
+    "positive_commodity": "stainless steel pipe bushing",
+    "negative_commodity": "industrial cast iron pipe"
+  },
+  {
+    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe spectacle blind flanges stainless steel pipe spectacle blind flange",
+    "positive_commodity": "stainless steel pipe bushing",
+    "negative_commodity": "stainless steel pipe spectacle blind flange"
+  },
+  {
+    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe weldolets stainless steel pipe weldolet",
+    "positive_commodity": "stainless steel pipe bushing",
+    "negative_commodity": "stainless steel pipe weldolet"
+  },
+  {
+    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes brass pipe wye",
+    "positive_commodity": "stainless steel pipe bushing",
+    "negative_commodity": "brass pipe wye"
+  },
+  {
+    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples copper pipe nipple",
+    "positive_commodity": "stainless steel pipe bushing",
+    "negative_commodity": "copper pipe nipple"
+  },
+  {
+    "query": "polyvinyl chloride trap adapter 1 1 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plate flanges ductile iron pipe plate flange",
+    "positive_commodity": "pvc plastic pipe adapter",
+    "negative_commodity": "ductile iron pipe plate flange"
+  },
+  {
+    "query": "polyvinyl chloride trap adapter 1 1 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses copper pipe cross",
+    "positive_commodity": "pvc plastic pipe adapter",
+    "negative_commodity": "copper pipe cross"
+  },
+  {
+    "query": "polyvinyl chloride trap adapter 1 1 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples carbon steel pipe nipple",
+    "positive_commodity": "pvc plastic pipe adapter",
+    "negative_commodity": "carbon steel pipe nipple"
+  },
+  {
+    "query": "polyvinyl chloride trap adapter 1 1 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe long weldneck flanges stainless steel pipe long weldneck flange",
+    "positive_commodity": "pvc plastic pipe adapter",
+    "negative_commodity": "stainless steel pipe long weldneck flange"
+  },
+  {
+    "query": "polyvinyl chloride trap adapter 1 1 4",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters brass pipe adapter",
+    "positive_commodity": "pvc plastic pipe adapter",
+    "negative_commodity": "brass pipe adapter"
+  },
+  {
+    "query": "6 oval to rd 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe slipon flanges stainless steel pipe slipon flange",
+    "positive_commodity": "galvanized iron pipe elbow",
+    "negative_commodity": "stainless steel pipe slipon flange"
+  },
+  {
+    "query": "6 oval to rd 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks ductile iron pipe rupture disk",
+    "positive_commodity": "galvanized iron pipe elbow",
+    "negative_commodity": "ductile iron pipe rupture disk"
+  },
+  {
+    "query": "6 oval to rd 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe toilet flanges copper pipe toilet flange",
+    "positive_commodity": "galvanized iron pipe elbow",
+    "negative_commodity": "copper pipe toilet flange"
+  },
+  {
+    "query": "6 oval to rd 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial brass pipe",
+    "positive_commodity": "galvanized iron pipe elbow",
+    "negative_commodity": "commercial brass pipe"
+  },
+  {
+    "query": "6 oval to rd 90",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings galvanized steel pipe bushing",
+    "positive_commodity": "galvanized iron pipe elbow",
+    "negative_commodity": "galvanized steel pipe bushing"
+  },
+  {
+    "query": "3 8 prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings abs plastic pipe coupling",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "abs plastic pipe coupling"
+  },
+  {
+    "query": "3 8 prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses ductile iron pipe cross",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "ductile iron pipe cross"
+  },
+  {
+    "query": "3 8 prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings ductile iron pipe bushing",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "ductile iron pipe bushing"
+  },
+  {
+    "query": "3 8 prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bends galvanized iron pipe bend",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "galvanized iron pipe bend"
+  },
+  {
+    "query": "3 8 prop",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings forged steel pipe bushing",
+    "positive_commodity": "brass pipe connector",
+    "negative_commodity": "forged steel pipe bushing"
+  },
+  {
+    "query": "line set for mini splits",
+    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling exchangers",
+    "positive_commodity": "air conditioners",
+    "negative_commodity": "cooling exchangers"
+  },
+  {
+    "query": "line set for mini splits",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
     "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories ceramic fiber heaters",
     "positive_commodity": "air conditioners",
     "negative_commodity": "ceramic fiber heaters"
   },
   {
-    "query": "prestainless st junctionlure tank 20 gallon",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage bins and baskets metallic baskets",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "metallic baskets"
-  },
-  {
-    "query": "prestainless st junctionlure tank 20 gallon",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage bins and baskets non metallic bins",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "non metallic bins"
-  },
-  {
-    "query": "prestainless st junctionlure tank 20 gallon",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories dip tanks",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "dip tanks"
-  },
-  {
-    "query": "prestainless st junctionlure tank 20 gallon",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage casks and barrels and drums barrels",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "barrels"
-  },
-  {
-    "query": "prestainless st junctionlure tank 20 gallon",
-    "positive": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage tanks and cylinders and their accessories water storage tanks",
-    "negative": "material handling and conditioning and storage machinery and their accessories and supplies containers and storage storage chests and cabinets and trunks hazardous materials cabinets",
-    "positive_commodity": "water storage tanks",
-    "negative_commodity": "hazardous materials cabinets"
-  },
-  {
-    "query": "valve 1 2 gas ball",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses spray hose",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "spray hose"
-  },
-  {
-    "query": "valve 1 2 gas ball",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts glass ducts or ductwork",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "glass ducts or ductwork"
-  },
-  {
-    "query": "valve 1 2 gas ball",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts stainless steel ducts or ductwork",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "stainless steel ducts or ductwork"
-  },
-  {
-    "query": "valve 1 2 gas ball",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings valve box or valve room",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "valve box or valve room"
-  },
-  {
-    "query": "valve 1 2 gas ball",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing hangers",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "plumbing hangers"
-  },
-  {
-    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes forged steel pipe wye",
-    "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "forged steel pipe wye"
-  },
-  {
-    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe spacers pvc plastic pipe spacer",
-    "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "pvc plastic pipe spacer"
-  },
-  {
-    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial concrete pipe",
-    "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "commercial concrete pipe"
-  },
-  {
-    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe repair clamps ductile iron pipe repair clamp",
-    "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "ductile iron pipe repair clamp"
-  },
-  {
-    "query": "1 1 4 x 1 stainless st junctionlfit bushing 304",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings specialized pipe fittings and flanges pipe laterals",
-    "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "pipe laterals"
-  },
-  {
-    "query": "polyvinyl chloride trap adapter 1 1 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe lapjoint flanges copper pipe lapjoint flange",
-    "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "copper pipe lapjoint flange"
-  },
-  {
-    "query": "polyvinyl chloride trap adapter 1 1 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe backup flanges carbon steel pipe backup flange",
-    "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "carbon steel pipe backup flange"
-  },
-  {
-    "query": "polyvinyl chloride trap adapter 1 1 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses malleable iron pipe cross",
-    "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "malleable iron pipe cross"
-  },
-  {
-    "query": "polyvinyl chloride trap adapter 1 1 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes stainless steel pipe wye",
-    "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "stainless steel pipe wye"
-  },
-  {
-    "query": "polyvinyl chloride trap adapter 1 1 4",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps pvc plastic pipe cap",
-    "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "pvc plastic pipe cap"
-  },
-  {
-    "query": "6 oval to rd 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe baffles ductile iron pipe baffle",
-    "positive_commodity": "galvanized iron pipe elbow",
-    "negative_commodity": "ductile iron pipe baffle"
-  },
-  {
-    "query": "6 oval to rd 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe backup flanges forged steel pipe backup flange",
-    "positive_commodity": "galvanized iron pipe elbow",
-    "negative_commodity": "forged steel pipe backup flange"
-  },
-  {
-    "query": "6 oval to rd 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial lead pipe",
-    "positive_commodity": "galvanized iron pipe elbow",
-    "negative_commodity": "industrial lead pipe"
-  },
-  {
-    "query": "6 oval to rd 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples carbon steel pipe nipple",
-    "positive_commodity": "galvanized iron pipe elbow",
-    "negative_commodity": "carbon steel pipe nipple"
-  },
-  {
-    "query": "6 oval to rd 90",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized iron pipe elbow",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors polyethylene pipe connector",
-    "positive_commodity": "galvanized iron pipe elbow",
-    "negative_commodity": "polyethylene pipe connector"
-  },
-  {
-    "query": "3 8 prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps brass pipe cap",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "brass pipe cap"
-  },
-  {
-    "query": "3 8 prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows galvanized steel pipe elbow",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "galvanized steel pipe elbow"
-  },
-  {
-    "query": "3 8 prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs hdpe plastic pipe plug",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "hdpe plastic pipe plug"
-  },
-  {
-    "query": "3 8 prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings pvc plastic pipe reducing coupling",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "pvc plastic pipe reducing coupling"
-  },
-  {
-    "query": "3 8 prop",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors brass pipe connector",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe swivel or rotating joints copper pipe swivel or rotating joint",
-    "positive_commodity": "brass pipe connector",
-    "negative_commodity": "copper pipe swivel or rotating joint"
+    "query": "line set for mini splits",
+    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling tower accessories",
+    "positive_commodity": "air conditioners",
+    "negative_commodity": "cooling tower accessories"
   },
   {
     "query": "line set for mini splits",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories capillary tube assemblies",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation ventilation tube hanger",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "capillary tube assemblies"
+    "negative_commodity": "ventilation tube hanger"
   },
   {
     "query": "line set for mini splits",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories doors for heating equipment",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories electric fueled fireplace",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "doors for heating equipment"
-  },
-  {
-    "query": "line set for mini splits",
-    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation boilers electric boilers",
-    "positive_commodity": "air conditioners",
-    "negative_commodity": "electric boilers"
-  },
-  {
-    "query": "line set for mini splits",
-    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories process air heaters",
-    "positive_commodity": "air conditioners",
-    "negative_commodity": "process air heaters"
-  },
-  {
-    "query": "line set for mini splits",
-    "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories induction heaters",
-    "positive_commodity": "air conditioners",
-    "negative_commodity": "induction heaters"
+    "negative_commodity": "electric fueled fireplace"
   },
   {
     "query": "quick line set",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation boilers natural gas powered boilers",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories circulation heaters",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "natural gas powered boilers"
+    "negative_commodity": "circulation heaters"
   },
   {
     "query": "quick line set",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories electric furnace",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories ceramic fiber heaters",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "electric furnace"
+    "negative_commodity": "ceramic fiber heaters"
   },
   {
     "query": "quick line set",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories unit cooler",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling coil",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "unit cooler"
+    "negative_commodity": "cooling coil"
   },
   {
     "query": "quick line set",
@@ -1220,247 +1220,247 @@
   {
     "query": "quick line set",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation air diffusers",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation boilers fire tube boilers",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "air diffusers"
+    "negative_commodity": "fire tube boilers"
   },
   {
     "query": "mal 8 x 2 hex head zip screws 250 per tub hw8x2zt",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware retaining hardware rectangular key",
+    "negative": "manufacturing components and supplies hardware metal nets and screening structures gabion",
     "positive_commodity": "set screws",
-    "negative_commodity": "rectangular key"
+    "negative_commodity": "gabion"
   },
   {
     "query": "mal 8 x 2 hex head zip screws 250 per tub hw8x2zt",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware nuts square nuts",
+    "negative": "manufacturing components and supplies hardware retaining hardware threaded pins",
     "positive_commodity": "set screws",
-    "negative_commodity": "square nuts"
+    "negative_commodity": "threaded pins"
   },
   {
     "query": "mal 8 x 2 hex head zip screws 250 per tub hw8x2zt",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware nails decorative nail",
+    "negative": "manufacturing components and supplies hardware anchors tie down anchors",
     "positive_commodity": "set screws",
-    "negative_commodity": "decorative nail"
+    "negative_commodity": "tie down anchors"
   },
   {
     "query": "mal 8 x 2 hex head zip screws 250 per tub hw8x2zt",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware washers thrust washers",
+    "negative": "manufacturing components and supplies hardware bolts stove bolt",
     "positive_commodity": "set screws",
-    "negative_commodity": "thrust washers"
+    "negative_commodity": "stove bolt"
   },
   {
     "query": "mal 8 x 2 hex head zip screws 250 per tub hw8x2zt",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware couplings universal flexible coupling",
+    "negative": "manufacturing components and supplies hardware rivets coopers rivets",
     "positive_commodity": "set screws",
-    "negative_commodity": "universal flexible coupling"
+    "negative_commodity": "coopers rivets"
   },
   {
     "query": "4 to 6 fernco",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings rubber pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings carbon steel pipe reducing coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe socketweld flanges abs plastic pipe socketweld flange",
     "positive_commodity": "rubber pipe reducing coupling",
-    "negative_commodity": "carbon steel pipe reducing coupling"
+    "negative_commodity": "abs plastic pipe socketweld flange"
   },
   {
     "query": "4 to 6 fernco",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings rubber pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows cpvc plastic pipe elbow",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs pvc plastic pipe plug",
     "positive_commodity": "rubber pipe reducing coupling",
-    "negative_commodity": "cpvc plastic pipe elbow"
+    "negative_commodity": "pvc plastic pipe plug"
   },
   {
     "query": "4 to 6 fernco",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings rubber pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe weldolets forged steel pipe weldolet",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial concrete pipe",
     "positive_commodity": "rubber pipe reducing coupling",
-    "negative_commodity": "forged steel pipe weldolet"
+    "negative_commodity": "commercial concrete pipe"
   },
   {
     "query": "4 to 6 fernco",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings rubber pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bends copper pipe bend",
     "positive_commodity": "rubber pipe reducing coupling",
-    "negative_commodity": "brass pipe coupling"
+    "negative_commodity": "copper pipe bend"
   },
   {
     "query": "4 to 6 fernco",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings rubber pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial welded stainless steel pipe",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows copper pipe elbow",
     "positive_commodity": "rubber pipe reducing coupling",
-    "negative_commodity": "industrial welded stainless steel pipe"
+    "negative_commodity": "copper pipe elbow"
   },
   {
     "query": "viega 1 pureflow pexprestainless st junctionl polymer coupling pexprestainless st junctionl x pexprestainless st junctionl",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings pvc plastic pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe unions stainless steel pipe union",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs aluminum pipe plug",
     "positive_commodity": "pvc plastic pipe coupling",
-    "negative_commodity": "stainless steel pipe union"
+    "negative_commodity": "aluminum pipe plug"
   },
   {
     "query": "viega 1 pureflow pexprestainless st junctionl polymer coupling pexprestainless st junctionl x pexprestainless st junctionl",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings pvc plastic pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe half couplings pvc plastic pipe half coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors pvc plastic pipe connector",
     "positive_commodity": "pvc plastic pipe coupling",
-    "negative_commodity": "pvc plastic pipe half coupling"
+    "negative_commodity": "pvc plastic pipe connector"
   },
   {
     "query": "viega 1 pureflow pexprestainless st junctionl polymer coupling pexprestainless st junctionl x pexprestainless st junctionl",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings pvc plastic pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses forged steel pipe cross",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe half couplings forged steel pipe half coupling",
     "positive_commodity": "pvc plastic pipe coupling",
-    "negative_commodity": "forged steel pipe cross"
+    "negative_commodity": "forged steel pipe half coupling"
   },
   {
     "query": "viega 1 pureflow pexprestainless st junctionl polymer coupling pexprestainless st junctionl x pexprestainless st junctionl",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings pvc plastic pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks hdpe plastic pipe rupture disk",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe half couplings stainless steel pipe half coupling",
     "positive_commodity": "pvc plastic pipe coupling",
-    "negative_commodity": "hdpe plastic pipe rupture disk"
+    "negative_commodity": "stainless steel pipe half coupling"
   },
   {
     "query": "viega 1 pureflow pexprestainless st junctionl polymer coupling pexprestainless st junctionl x pexprestainless st junctionl",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings pvc plastic pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe expansion joints ductile iron pipe expansion joint",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees galvanized iron pipe tee",
     "positive_commodity": "pvc plastic pipe coupling",
-    "negative_commodity": "ductile iron pipe expansion joint"
+    "negative_commodity": "galvanized iron pipe tee"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories cartridge heaters",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories one pass exchangers",
     "positive_commodity": "space heaters",
-    "negative_commodity": "cartridge heaters"
+    "negative_commodity": "one pass exchangers"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories furnaces",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories wood fueled fireplace",
     "positive_commodity": "space heaters",
-    "negative_commodity": "furnaces"
+    "negative_commodity": "wood fueled fireplace"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories gas fueled fireplace b vent",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories gas fueled fireplace vent free",
     "positive_commodity": "space heaters",
-    "negative_commodity": "gas fueled fireplace b vent"
+    "negative_commodity": "gas fueled fireplace vent free"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories electric furnace",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories water cooled condensor",
     "positive_commodity": "space heaters",
-    "negative_commodity": "electric furnace"
+    "negative_commodity": "water cooled condensor"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation ventilation tube fittings",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation humidity control humidifiers",
     "positive_commodity": "space heaters",
-    "negative_commodity": "ventilation tube fittings"
+    "negative_commodity": "humidifiers"
   },
   {
     "query": "screws 8 x 1 1 2",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware bolts structural bolts",
+    "negative": "manufacturing components and supplies hardware couplings elastomeric couplings",
     "positive_commodity": "set screws",
-    "negative_commodity": "structural bolts"
+    "negative_commodity": "elastomeric couplings"
   },
   {
     "query": "screws 8 x 1 1 2",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware bolts u bolts",
+    "negative": "manufacturing components and supplies hardware screws hammerhead or t screw",
     "positive_commodity": "set screws",
-    "negative_commodity": "u bolts"
+    "negative_commodity": "hammerhead or t screw"
   },
   {
     "query": "screws 8 x 1 1 2",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware retaining hardware flinger",
+    "negative": "manufacturing components and supplies hardware bolts over neck bolt",
     "positive_commodity": "set screws",
-    "negative_commodity": "flinger"
+    "negative_commodity": "over neck bolt"
   },
   {
     "query": "screws 8 x 1 1 2",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware nuts slotted round nut",
+    "negative": "manufacturing components and supplies hardware washers spherical or domed washers",
     "positive_commodity": "set screws",
-    "negative_commodity": "slotted round nut"
+    "negative_commodity": "spherical or domed washers"
   },
   {
     "query": "screws 8 x 1 1 2",
     "positive": "manufacturing components and supplies hardware screws set screws",
-    "negative": "manufacturing components and supplies hardware miscellaneous fasteners pawls",
+    "negative": "manufacturing components and supplies hardware washers electrical insulating washers",
     "positive_commodity": "set screws",
-    "negative_commodity": "pawls"
+    "negative_commodity": "electrical insulating washers"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler 105kbtu input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories reverberatory furnace",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories film heater",
     "positive_commodity": "space heaters",
-    "negative_commodity": "reverberatory furnace"
+    "negative_commodity": "film heater"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler 105kbtu input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation air circulation and parts and accessories ventilation check",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories high frequency induction vacuum melting furnace",
     "positive_commodity": "space heaters",
-    "negative_commodity": "ventilation check"
+    "negative_commodity": "high frequency induction vacuum melting furnace"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler 105kbtu input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation air circulation and parts and accessories ceiling fan kit",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories finned tubular heaters",
     "positive_commodity": "space heaters",
-    "negative_commodity": "ceiling fan kit"
+    "negative_commodity": "finned tubular heaters"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler 105kbtu input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air handling unit",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories plate heat exchanger",
     "positive_commodity": "space heaters",
-    "negative_commodity": "air handling unit"
+    "negative_commodity": "plate heat exchanger"
   },
   {
     "query": "weil cga 4 pidn nat gas hot water boiler 105kbtu input net cast iron",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories space heaters",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling tower",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation ventilation tube hanger",
     "positive_commodity": "space heaters",
-    "negative_commodity": "cooling tower"
+    "negative_commodity": "ventilation tube hanger"
   },
   {
     "query": "roll 100 vinyl tubing clear",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves vacuum valve",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves piston check valves",
     "positive_commodity": "water hoses",
-    "negative_commodity": "vacuum valve"
+    "negative_commodity": "piston check valves"
   },
   {
     "query": "roll 100 vinyl tubing clear",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings atomizers",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings non freeze hydrant",
     "positive_commodity": "water hoses",
-    "negative_commodity": "atomizers"
+    "negative_commodity": "non freeze hydrant"
   },
   {
     "query": "roll 100 vinyl tubing clear",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing spiders",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves directional control valve coil assembly",
     "positive_commodity": "water hoses",
-    "negative_commodity": "plumbing spiders"
+    "negative_commodity": "directional control valve coil assembly"
   },
   {
     "query": "roll 100 vinyl tubing clear",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution hoses water hoses",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings grease fitting",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution traps and strainers tee strainer",
     "positive_commodity": "water hoses",
-    "negative_commodity": "grease fitting"
+    "negative_commodity": "tee strainer"
   },
   {
     "query": "roll 100 vinyl tubing clear",
@@ -1472,30 +1472,16 @@
   {
     "query": "1 1 2 brastainless st junctionl gas stop valve lever handle",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves compressed gas valve",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts lead ducts or ductwork",
     "positive_commodity": "ball valves",
-    "negative_commodity": "compressed gas valve"
+    "negative_commodity": "lead ducts or ductwork"
   },
   {
     "query": "1 1 2 brastainless st junctionl gas stop valve lever handle",
     "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution ducts steel ducts or ductwork",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings plumbing adapters",
     "positive_commodity": "ball valves",
-    "negative_commodity": "steel ducts or ductwork"
-  },
-  {
-    "query": "1 1 2 brastainless st junctionl gas stop valve lever handle",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution valves mud or slush valves",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "mud or slush valves"
-  },
-  {
-    "query": "1 1 2 brastainless st junctionl gas stop valve lever handle",
-    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
-    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings fuel cocks",
-    "positive_commodity": "ball valves",
-    "negative_commodity": "fuel cocks"
+    "negative_commodity": "plumbing adapters"
   },
   {
     "query": "1 1 2 brastainless st junctionl gas stop valve lever handle",
@@ -1505,248 +1491,262 @@
     "negative_commodity": "fluid regulator repair kits"
   },
   {
-    "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe connectors pvc plastic pipe connector",
-    "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "pvc plastic pipe connector"
+    "query": "1 1 2 brastainless st junctionl gas stop valve lever handle",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings funnels",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "funnels"
+  },
+  {
+    "query": "1 1 2 brastainless st junctionl gas stop valve lever handle",
+    "positive": "distribution and conditioning systems and equipment and components fluid and gas distribution valves ball valves",
+    "negative": "distribution and conditioning systems and equipment and components fluid and gas distribution hardware and fittings drain separator",
+    "positive_commodity": "ball valves",
+    "negative_commodity": "drain separator"
   },
   {
     "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings forged steel pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial cast iron pipe",
     "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "forged steel pipe coupling"
+    "negative_commodity": "commercial cast iron pipe"
   },
   {
     "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe lapjoint flanges stainless steel pipe lapjoint flange",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe lapjoint flanges forged steel pipe lapjoint flange",
     "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "stainless steel pipe lapjoint flange"
+    "negative_commodity": "forged steel pipe lapjoint flange"
   },
   {
     "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe repair clamps stainless steel pipe repair clamp",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows ductile iron pipe elbow",
     "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "stainless steel pipe repair clamp"
+    "negative_commodity": "ductile iron pipe elbow"
   },
   {
     "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial welded carbon steel pipe",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings malleable iron pipe reducing coupling",
     "positive_commodity": "pvc plastic pipe tee",
-    "negative_commodity": "commercial welded carbon steel pipe"
+    "negative_commodity": "malleable iron pipe reducing coupling"
+  },
+  {
+    "query": "3 x 3 x 2 polyvinyl chloride dwv reducing sanitary t junction",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees pvc plastic pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings hdpe plastic pipe reducing coupling",
+    "positive_commodity": "pvc plastic pipe tee",
+    "negative_commodity": "hdpe plastic pipe reducing coupling"
   },
   {
     "query": "lineset for mini splits wht ryno",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories baffle plate",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories circulation heaters",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "baffle plate"
+    "negative_commodity": "circulation heaters"
   },
   {
     "query": "lineset for mini splits wht ryno",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories gas fueled fireplace b vent",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories band heaters",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "gas fueled fireplace b vent"
+    "negative_commodity": "band heaters"
   },
   {
     "query": "lineset for mini splits wht ryno",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation air circulation and parts and accessories ceiling fan kit",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories air preheater",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "ceiling fan kit"
+    "negative_commodity": "air preheater"
   },
   {
     "query": "lineset for mini splits wht ryno",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories ceramic fiber heaters",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories gas fueled fireplace vent direct",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "ceramic fiber heaters"
+    "negative_commodity": "gas fueled fireplace vent direct"
   },
   {
     "query": "lineset for mini splits wht ryno",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories air conditioners",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories strip heaters",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling tower accessories",
     "positive_commodity": "air conditioners",
-    "negative_commodity": "strip heaters"
+    "negative_commodity": "cooling tower accessories"
   },
   {
     "query": "viega pex prestainless st junctionl coupling 1",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe socketweld flanges forged steel pipe socketweld flange",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters ductile iron pipe adapter",
     "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "forged steel pipe socketweld flange"
+    "negative_commodity": "ductile iron pipe adapter"
   },
   {
     "query": "viega pex prestainless st junctionl coupling 1",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples carbon steel pipe nipple",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe elbows pvc plastic pipe elbow",
     "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "carbon steel pipe nipple"
+    "negative_commodity": "pvc plastic pipe elbow"
   },
   {
     "query": "viega pex prestainless st junctionl coupling 1",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bends cast iron pipe bend",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe threaded flanges hdpe plastic pipe threaded flange",
     "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "cast iron pipe bend"
+    "negative_commodity": "hdpe plastic pipe threaded flange"
   },
   {
     "query": "viega pex prestainless st junctionl coupling 1",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes cast iron pipe wye",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees forged steel pipe tee",
     "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "cast iron pipe wye"
+    "negative_commodity": "forged steel pipe tee"
   },
   {
     "query": "viega pex prestainless st junctionl coupling 1",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings brass pipe coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial welded corrugated galvanized pipe",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings specialized pipe fittings and flanges pipe connection boxes",
     "positive_commodity": "brass pipe coupling",
-    "negative_commodity": "commercial welded corrugated galvanized pipe"
+    "negative_commodity": "pipe connection boxes"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging mpt x fpt",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe weldolets stainless steel pipe weldolet",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe backup flanges forged steel pipe backup flange",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "stainless steel pipe weldolet"
+    "negative_commodity": "forged steel pipe backup flange"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging mpt x fpt",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe rupture disks cast iron pipe rupture disk",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing flanges malleable iron pipe reducing flange",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "cast iron pipe rupture disk"
+    "negative_commodity": "malleable iron pipe reducing flange"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging mpt x fpt",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial zinc pipe",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe nipples stainless steel pipe nipple",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "commercial zinc pipe"
+    "negative_commodity": "stainless steel pipe nipple"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging mpt x fpt",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees galvanized iron pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe wyes forged steel pipe wye",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "galvanized iron pipe tee"
+    "negative_commodity": "forged steel pipe wye"
   },
   {
     "query": "304 304l stainlestainless st junctionl st junctionl hex bushinging mpt x fpt",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe couplings cpvc plastic pipe coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing flanges abs plastic pipe reducing flange",
     "positive_commodity": "stainless steel pipe bushing",
-    "negative_commodity": "cpvc plastic pipe coupling"
+    "negative_commodity": "abs plastic pipe reducing flange"
   },
   {
     "query": "blank coil plate fr ap",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling coil",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories crematory",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories electric furnace",
     "positive_commodity": "cooling coil",
-    "negative_commodity": "crematory"
+    "negative_commodity": "electric furnace"
   },
   {
     "query": "blank coil plate fr ap",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling coil",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories fireplace mantle surrounds",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation air exhausters",
     "positive_commodity": "cooling coil",
-    "negative_commodity": "fireplace mantle surrounds"
+    "negative_commodity": "air exhausters"
   },
   {
     "query": "blank coil plate fr ap",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling coil",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation boilers mini oil boiler",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation ventilation spiral ventilation tubing",
     "positive_commodity": "cooling coil",
-    "negative_commodity": "mini oil boiler"
+    "negative_commodity": "spiral ventilation tubing"
   },
   {
     "query": "blank coil plate fr ap",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling coil",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories heating stoves",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories double split exchangers",
     "positive_commodity": "cooling coil",
-    "negative_commodity": "heating stoves"
+    "negative_commodity": "double split exchangers"
   },
   {
     "query": "blank coil plate fr ap",
     "positive": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation cooling equipment and parts and accessories cooling coil",
-    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation heating equipment and parts and accessories shell and tube heat exchanger",
+    "negative": "distribution and conditioning systems and equipment and components heating and ventilation and air circulation fireplaces and accessories wood fueled fireplace",
     "positive_commodity": "cooling coil",
-    "negative_commodity": "shell and tube heat exchanger"
+    "negative_commodity": "wood fueled fireplace"
   },
   {
     "query": "polyvinyl chloride 1 2 insert male",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial seamless stainless steel pipe",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings industrial pipe and piping industrial seamless stainless steel pipe",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "commercial seamless stainless steel pipe"
+    "negative_commodity": "industrial seamless stainless steel pipe"
   },
   {
     "query": "polyvinyl chloride 1 2 insert male",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe weldolets forged steel pipe weldolet",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe baffles cpvc plastic pipe baffle",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "forged steel pipe weldolet"
+    "negative_commodity": "cpvc plastic pipe baffle"
   },
   {
     "query": "polyvinyl chloride 1 2 insert male",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe bushings stainless steel pipe bushing",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs ductile iron pipe plug",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "stainless steel pipe bushing"
+    "negative_commodity": "ductile iron pipe plug"
   },
   {
     "query": "polyvinyl chloride 1 2 insert male",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees malleable iron pipe tee",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters brass pipe adapter",
     "positive_commodity": "pvc plastic pipe adapter",
-    "negative_commodity": "malleable iron pipe tee"
+    "negative_commodity": "brass pipe adapter"
   },
   {
     "query": "polyvinyl chloride 1 2 insert male",
     "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe adapters pvc plastic pipe adapter",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees carbon steel pipe tee",
+    "positive_commodity": "pvc plastic pipe adapter",
+    "negative_commodity": "carbon steel pipe tee"
+  },
+  {
+    "query": "copper 3 x 2 reducing coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses stainless steel pipe cross",
+    "positive_commodity": "copper pipe reducing coupling",
+    "negative_commodity": "stainless steel pipe cross"
+  },
+  {
+    "query": "copper 3 x 2 reducing coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe crosses hdpe plastic pipe cross",
+    "positive_commodity": "copper pipe reducing coupling",
+    "negative_commodity": "hdpe plastic pipe cross"
+  },
+  {
+    "query": "copper 3 x 2 reducing coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe plugs rubber pipe plug",
+    "positive_commodity": "copper pipe reducing coupling",
+    "negative_commodity": "rubber pipe plug"
+  },
+  {
+    "query": "copper 3 x 2 reducing coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
+    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe unions forged steel pipe union",
+    "positive_commodity": "copper pipe reducing coupling",
+    "negative_commodity": "forged steel pipe union"
+  },
+  {
+    "query": "copper 3 x 2 reducing coupling",
+    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
     "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe tees brass pipe tee",
-    "positive_commodity": "pvc plastic pipe adapter",
+    "positive_commodity": "copper pipe reducing coupling",
     "negative_commodity": "brass pipe tee"
-  },
-  {
-    "query": "copper 3 x 2 reducing coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps ductile iron pipe cap",
-    "positive_commodity": "copper pipe reducing coupling",
-    "negative_commodity": "ductile iron pipe cap"
-  },
-  {
-    "query": "copper 3 x 2 reducing coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe repair clamps cast iron pipe repair clamp",
-    "positive_commodity": "copper pipe reducing coupling",
-    "negative_commodity": "cast iron pipe repair clamp"
-  },
-  {
-    "query": "copper 3 x 2 reducing coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings commercial pipe and piping commercial bronze pipe",
-    "positive_commodity": "copper pipe reducing coupling",
-    "negative_commodity": "commercial bronze pipe"
-  },
-  {
-    "query": "copper 3 x 2 reducing coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings specialized pipe fittings and flanges pipe saddles",
-    "positive_commodity": "copper pipe reducing coupling",
-    "negative_commodity": "pipe saddles"
-  },
-  {
-    "query": "copper 3 x 2 reducing coupling",
-    "positive": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe reducing couplings copper pipe reducing coupling",
-    "negative": "distribution and conditioning systems and equipment and components pipe piping and pipe fittings pipe caps stainless steel pipe cap",
-    "positive_commodity": "copper pipe reducing coupling",
-    "negative_commodity": "stainless steel pipe cap"
   }
 ]

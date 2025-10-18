@@ -71,33 +71,53 @@ Evaluator initialized
   Evaluated 50 products...
   Evaluated 75 products...
   Evaluated 100 products...
-
-======================================================================
+================================================================================
 EVALUATION RESULTS
-======================================================================
-Top-1 Accuracy           :  21.00%
-Precision@1              :  21.00%
-Recall@1                 :  21.00%
-Segment Acc @1           :  43.00%
-Family Acc @1            :  34.00%
-Class Acc @1             :  26.00%
-Top-5 Accuracy           :  31.00%
-Precision@5              :   6.20%
-Recall@5                 :  31.00%
-Segment Acc @5           :  59.00%
-Family Acc @5            :  48.00%
-Class Acc @5             :  39.00%
-Top-10 Accuracy          :  36.00%
-Precision@10             :   3.60%
-Recall@10                :  36.00%
-Segment Acc @10          :  64.00%
-Family Acc @10           :  54.00%
-Class Acc @10            :  45.00%
-Total Evaluated          : 100
-Skipped                  : 0
-Confidence Threshold     : 0.30
-Predictions Filtered     : 0
-======================================================================
+================================================================================
+
+Summary Statistics:
+--------------------------------------------------------------------------------
+  Total Evaluated                    : 100
+  Skipped (missing data)             : 0
+  No Predictions                     : 0
+  All Predictions Filtered           : 0
+  Total Predictions Filtered         : 0
+  Confidence Threshold               : 0.30
+
+Ranking Metrics:
+--------------------------------------------------------------------------------
+  MRR (Mean Reciprocal Rank)         : 0.2497
+
+Metrics @ k=1:
+--------------------------------------------------------------------------------
+  Accuracy@1                         :  21.00%
+  Precision@1                        :  21.00%
+  NDCG@1                             :  21.00%
+  Segment Match@1                    :  43.00%
+  Family Match@1                     :  34.00%
+  Class Match@1                      :  26.00%
+  Samples with <1 predictions        : 0
+
+Metrics @ k=5:
+--------------------------------------------------------------------------------
+  Accuracy@5                         :  31.00%
+  Precision@5                        :   6.20%
+  NDCG@5                             :  25.96%
+  Segment Match@5                    :  59.00%
+  Family Match@5                     :  48.00%
+  Class Match@5                      :  39.00%
+  Samples with <5 predictions        : 0
+
+Metrics @ k=10:
+--------------------------------------------------------------------------------
+  Accuracy@10                        :  36.00%
+  Precision@10                       :   3.60%
+  NDCG@10                            :  27.55%
+  Segment Match@10                   :  64.00%
+  Family Match@10                    :  54.00%
+  Class Match@10                     :  45.00%
+  Samples with <10 predictions       : 0
+================================================================================
 
 Sample Predictions (First 3 Products):
 
@@ -130,6 +150,6 @@ Product 3:
 ======================================================================
 
  Output Files:
-   1. output/Output1_triples.json  - Training triples
-   2. output/Output1_pairs.json    - Training pairs
-   3. output/Output2_predictions.json - Product classifications
+   1. output/unspsc_training_triples.json  - Training triples
+   2. output/unspsc_training_pairs.json    - Training pairs
+   3. output/unspsc_candidates_dataset.csv - Product classifications

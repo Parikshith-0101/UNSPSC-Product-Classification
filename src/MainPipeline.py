@@ -104,7 +104,7 @@ def main():
         # output_file="output/Output2_predictions.json"
     )
     
-    print(f"\Output 2 Generated:")
+    print(f"\n Output 2 Generated:")
     print(f"   - Predictions: {predictions_file}")
     
     # ============================================================================
