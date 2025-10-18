@@ -47,16 +47,7 @@ class VectorStoreBuilder:
         vectorstore.save_local(save_path)
         print(f" FAISS index saved to {save_path}")
         return vectorstore
-    
-    # def load_vectorstore(self, index_path: str = "G:/Dylog_Internship_Assessments/src/faiss.index/index.faiss"):
-    #     """Load existing FAISS index"""
-    #     vectorstore = FAISS.load_local(
-    #         "faiss.index",
-    #         self.embeddings,
-    #         allow_dangerous_deserialization=True
-    #     )
-    #     print(f" Loaded vectorstore with {len(vectorstore.docstore._dict)} documents")
-    #     return vectorstore
+   
     def load_vectorstore(self, index_path: str = r"src\faiss.index"):
         """Load existing FAISS index"""
         vectorstore = FAISS.load_local(

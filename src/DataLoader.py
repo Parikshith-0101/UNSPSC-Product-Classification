@@ -1,4 +1,3 @@
-
 """
 Data Loading Module
 Handles loading and preprocessing of UNSPSC catalog, queries, and products
@@ -11,17 +10,19 @@ class DataLoader:
     """Loads and validates all required datasets"""
     
     def __init__(self, data_dir: str = "data"):
-        self.data_dir = Path(data_dir)
+        # Automatically resolve path relative to this file’s directory
+        self.data_dir = (Path(__file__).resolve().parent.parent / data_dir).resolve()
         
     def load_catalog(self) -> pd.DataFrame:
         """Load UNSPSC catalog with hierarchy"""
-        df = pd.read_csv("G:/Dylog_Internship_Assessments/data/dylog_unspsc_data.csv")
+        file_path = self.data_dir / "dylog_unspsc_data.csv"
+        df = pd.read_csv(file_path)
         
         # Create corpus column for retrieval
         df['corpus'] = (
-            df["Segment Name"] + " " + 
-            df["Family Name"] + " " + 
-            df["Class Name"] + " " + 
+            df["Segment Name"] + " " +
+            df["Family Name"] + " " +
+            df["Class Name"] + " " +
             df["Commodity Name"]
         ).str.lower()
         
@@ -30,13 +31,15 @@ class DataLoader:
     
     def load_queries(self) -> pd.DataFrame:
         """Load training queries"""
-        df = pd.read_csv("G:/Dylog_Internship_Assessments/data/dylog_search_queries_unspsc.csv")
+        file_path = self.data_dir / "dylog_search_queries_unspsc.csv"
+        df = pd.read_csv(file_path)
         print(f"Loaded queries: {len(df)} entries")
         return df
     
     def load_products(self) -> pd.DataFrame:
         """Load test products"""
-        df = pd.read_csv("G:/Dylog_Internship_Assessments/data/dylog_sample_product_unspsc.csv")
+        file_path = self.data_dir / "dylog_sample_product_unspsc.csv"
+        df = pd.read_csv(file_path)
         print(f"Loaded products: {len(df)} entries")
         return df
     
@@ -46,11 +49,9 @@ class DataLoader:
         """Validate data consistency"""
         catalog_names = set(catalog_df['Commodity Name'].str.strip().str.lower())
         
-        # Check queries
         query_names = set(queries_df['UNSPSC Commodity Name'].str.strip().str.lower())
         query_match = len(query_names.intersection(catalog_names))
         
-        # Check products
         product_names = set(products_df['UNSPSC Commodity Name'].str.strip().str.lower())
         product_match = len(product_names.intersection(catalog_names))
         
@@ -62,7 +63,7 @@ class DataLoader:
             'product_match_rate': product_match / len(product_names) * 100
         }
         
-        print(f"\n Data Validation:")
+        print("\n Data Validation:")
         print(f"   Queries match rate: {stats['query_match_rate']:.1f}%")
         print(f"   Products match rate: {stats['product_match_rate']:.1f}%")
         

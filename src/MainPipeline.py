@@ -137,9 +137,9 @@ def main():
     print(" PIPELINE COMPLETE")
     print("="*70)
     print("\n Output Files:")
-    print("   1. output/Output1_triples.json  - Training triples")
-    print("   2. output/Output1_pairs.json    - Training pairs")
-    print("   3. output/Output2_predictions.json - Product classifications")
+    print("   1. output/unspsc_training_triples.json  - Training triples")
+    print("   2. output/unspsc_training_pairs.json    - Training pairs")
+    print("   3. output/unspsc_candidates_dataset.csv - Product classifications")
     print()
 
 
